@@ -1,16 +1,8 @@
 # Neural-Network-from-Scratch
-## Overview
 
-This repo contains the code for this YouTube video: https://www.youtube.com/watch?v=PcfCEt5GdLY&list=PLPOTBrypY74wOpTIWQhqNdfV5gIt1h1fa&index=15
+This is the repo for my YouTube video ["Coding a Neural Network from Scratch in Python"](https://www.youtube.com/watch?v=PcfCEt5GdLY). The goal is to code a neural net from scratch using just NumPy.
 
-
-## Dependencies
-
-- numpy
-- pandas
-- sklearn
-- matplotlib
-- seaborn
+PS: The “html_files”-folder is just included in the repo so that I can embed the notebook into the respective [blog post](https://www.sebastian-mantey.com/code-blog/coding-a-neural-net-from-scratch-python) on my website.
 
 ## Credits
-- The Titanic data set comes from here: https://www.kaggle.com/c/titanic
+- [Titanic data set](https://www.kaggle.com/c/titanic)
