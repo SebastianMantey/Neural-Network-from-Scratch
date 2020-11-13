@@ -1,7 +1,7 @@
 # Neural-Network-from-Scratch
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SebastianMantey/Neural-Network-from-Scratch/master)
 
-This is the repo for my YouTube video ["Coding a Neural Network from Scratch in Python"](https://www.youtube.com/watch?v=PcfCEt5GdLY) and the respective [blog post](https://www.sebastian-mantey.com/code-blog/coding-a-neural-net-from-scratch-python). The goal is to code a neural net from scratch using just NumPy.
+This repo serves as a tutorial for coding a Neural Network from scratch in Python using just NumPy. And here is the respective [blog post](https://www.sebastian-mantey.com/code-blog/coding-a-neural-net-from-scratch-python) or [YouTube video](https://www.youtube.com/watch?v=PcfCEt5GdLY).
 
-## Credits
+# Credits
 - [Titanic data set](https://www.kaggle.com/c/titanic)
